@@ -27,7 +27,7 @@ const GALLERY_PHOTOS = [
   { src: "images/gallery-8.jpg",  label: "Heat Transfer / DTF"       },
   { src: "images/gallery-9.jpg",  label: "Heat Transfer / DTF"       },
   { src: "images/gallery-10.jpg", label: "Heat Transfer / DTF"       },
-  { src: "images/gallery-11.jpg", label: "Heat Transfer / DTF"       },
+  { src: "images/gallery-11.jpg", label: "Vehicle Graphics"       },
   { src: "images/gallery-12.jpg", label: "Heat Transfer / DTF"       },
   { src: "images/gallery-13.jpg", label: "Heat Transfer / DTF"       },
   { src: "images/gallery-14.jpg",  label: "Heat Transfer / DTF"       },
